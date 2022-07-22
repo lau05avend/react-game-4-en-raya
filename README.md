@@ -1,4 +1,4 @@
-# Autenticación React native con LARAVEL API.
+# Juego 4 en raya con React.
 
 ## Paso 1 - Dependencias
 
@@ -42,5 +42,5 @@ Una vez que se instalan las dependencias, ya es posible ejecutar la aplicación:
 $ npm start
 ```
 
-En el navegador debe abrirse a una aplicación en ejecución.
+En el navegador debe abrirse la aplicación en ejecución.
 
