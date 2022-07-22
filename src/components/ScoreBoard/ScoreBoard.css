@@ -1,0 +1,39 @@
+.parent {
+    padding: 0;
+    margin: 0;
+    min-width: 250px;
+    height: max-content;
+    position: relative;
+}
+
+.turnPlayer{
+    position: absolute;
+    top:0;
+    height: 100%;
+    width: 100%;
+    z-index: 10;
+    border-radius: 30px;
+    background-color: rgb(84,94,93,69%);
+}
+
+.section__aside{
+    width: 100%;
+    text-align: center;
+    padding: 20px 10px;
+    height: fit-content;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+.pl1 {
+    background-color: #CD493A;
+}
+.pl2 {
+    background-color: #4392F1;
+}
+.score_board {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
